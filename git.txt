@@ -1,5 +1,6 @@
 Git is really useful
 But a bit complicated
-It's OK and interesting
+
 Writing explicit commit messages is important
 Start first line with a verb and message that is less than 50 lines
+
