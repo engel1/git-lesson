@@ -1,4 +1,4 @@
-Git is really
+Git is top
 But a bit complicated
 
 Writing explicit commit messages is important.
