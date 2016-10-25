@@ -3,4 +3,3 @@ But a bit complicated
 
 Writing explicit commit messages is important.
 Start first line with a verb and message that is less than 50 lines
-
