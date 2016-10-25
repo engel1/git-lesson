@@ -1,4 +1,4 @@
-Git is really useful
+Git is really
 But a bit complicated
 
 Writing explicit commit messages is important.
